@@ -5,3 +5,5 @@ def test_code():
 
 def test_code_2():
     pass
+
+# test commit author name email change
