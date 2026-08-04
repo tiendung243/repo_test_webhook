@@ -1,2 +1,2 @@
 def new_function():
-    pass
+    print('22222')
