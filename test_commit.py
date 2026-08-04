@@ -3,4 +3,6 @@ def test_code():
     print("12345")
 
 def test_code_2():
-    pass
+    print('22222')
+    print("111111")
+    print("pr10")
